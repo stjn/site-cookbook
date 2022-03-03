@@ -2,6 +2,7 @@ site_name: Kookboek
 
 theme:
     name: 'material'
+    icon: material/food-variant
     palette:
 
     # Light mode
@@ -16,7 +17,7 @@ theme:
       primary: black
       accent: indgo
 
-    icon: material/food-variant
+
 
 # Extensions
 markdown_extensions:

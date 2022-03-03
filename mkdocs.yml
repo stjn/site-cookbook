@@ -34,7 +34,8 @@ markdown_extensions:
   # - admonition
 
 plugins:
-  - search
+  - search:
+    lang: du
   - roamlinks 
   
 extra:

@@ -26,8 +26,6 @@ theme:
 # Extensions
 markdown_extensions:
   - footnotes
-  - toc:
-    toc_depth : "1-1"
   # - attr_list
   # - pymdownx.arithmatex
   # - pymdownx.superfences

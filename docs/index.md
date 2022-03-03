@@ -1,11 +1,5 @@
-# Obsidian Notes
+# Welkom!
+Leuk dat je er bent.
 
-Publish your public notes with MkDocs
-
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+## Hoe is dit kookboek ontstaan?
+Ik ben een liefhebber. Van fijne smaken, goede ingrediënten en duidelijke teksten. In mijn werk als copywriter voor een supermarkt-app kom ik veel in aanraking met recepten. Samen met chefs en fotografen zorgen we voor recepten die mensen met plezier aan het koken krijgen. Mijn taak is zorgen voor duidelijkheid: elke stap moet kloppen en met zo min mogelijk moeite zo veel mogelijk resultaat opleveren. Die puzzel van recepten schrijven en herschrijven vond ik zo leuk, dat ik het ook in mijn vrije tijd begon te doen. Zoals elke hobby-chef was mijn kookrepertoire verspreid over knipselmappen, dikke kookboeken met ezelsoren en handgeschreven notities en opgeslagen recepten in apps en browsers. Zo'n systeem werkt, maar maakt het moeilijk om overzicht te houden. Je moet zelf onthouden wat je waar kunt vinden, want waar stond ook al weer dat linzenrecept met die gekaramelliseerde sjalooten? Zo ontstond dit idee: één simpele plek met alles wat ik ooit gemaakt heb en de moeite waard vond, herschreven op een manier die voor mij werkt. Er kleven voor- en nadelen aan een online kookboek. Het grootste nadeel is dat je instrucites niet rustig van papier kunt oplezen, maar de voordelen zijn eindeloos veel groter: je hebt ook in de supermarkten al je recepten bij de hand, je kunt makkelijk screenshots doorsturen, je kunt binnen recepten makkelijk linken naar andere recepten en, de allerbelangrijkste, het boek is nooit af. 

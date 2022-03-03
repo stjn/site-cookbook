@@ -19,6 +19,10 @@ theme:
     features:
     - navigation.tabs
 
+    extra_css:
+    - stylesheets/extra.css
+  
+
 # Extensions
 markdown_extensions:
   - footnotes
@@ -41,6 +45,3 @@ plugins:
 extra:
   generator: false
 
-extra_css:
-  - stylesheets/extra.css
-  

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chefs/De Bruijne, Irene.md",
-            "mode": "source"
+            "file": "index.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chefs/De Bruijne, Irene.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c652927e9ab4a897",
   "lastOpenFiles": [
-    "Chefs/De Bruijne, Irene.md",
+    "index.md",
+    "Ingrediënten/Gember.md",
     "Chefs/Baraghani, Andy.md",
+    "Chefs/De Bruijne, Irene.md",
+    "Recepten/Dahl met rode ui en limoen.md",
+    "Ingrediënten/Linzen.md",
     "Chefs/Grigson, Jane.md",
     "Chefs/Marcella Hazan.md",
     "Chefs/Zuidervaart, Freya.md",
-    "Chefs/Oliver, Jamie.md",
-    "Chefs/Maris, Marie.md",
-    "Chefs/Morocco, Chris.md",
-    "Chefs/Baz, Molly.md",
-    "Chefs/Roman, Alison.md"
+    "Chefs/Oliver, Jamie.md"
   ]
 }

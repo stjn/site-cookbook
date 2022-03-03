@@ -1,5 +1,5 @@
 # Aspergesoep met makreel
-Oorspronkelijk een recept van [[Irene de Bruijne]] voor Crisp. Als je deze soep goed maakt, is de textuur lekker dik. Daarvoor is het belangrijk dat je de roux goed maakt. Als die niet dik genoeg is, wordt de soep te waterig. Later nog bloem toevoegen is lastig, omdat het dan meer klontert.
+Oorspronkelijk een recept van [[De Bruijne, Irene]] voor Crisp. Als je deze soep goed maakt, is de textuur lekker dik. Daarvoor is het belangrijk dat je de roux goed maakt. Als die niet dik genoeg is, wordt de soep te waterig. Later nog bloem toevoegen is lastig, omdat het dan meer klontert.
 
 1. Schil **500 g asperges** en snijd ze in stukken van **2 centimeter**. Verwijder de harde uiteindes.
 2. Kook de asperges in 8 tot 10 minuten beetgaar in **750 ml groentebouillon**.

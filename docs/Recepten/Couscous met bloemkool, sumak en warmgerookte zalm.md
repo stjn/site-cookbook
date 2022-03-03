@@ -1,5 +1,5 @@
 # Couscous met bloemkool, sumak en warmgerookte zalm
-Oorspronkelijk een recept van [[Irene de Bruijne]] voor Crisp. Mijn bewerking bakt de bloemkool in de oven in plaats van in een pan, en gebruikt rode paprika in plaats van gele. Verder was de oorspronkelijke hoeveelheid yoghurt 100g, maar heb ik daar iets meer van gemaakt.
+Oorspronkelijk een recept van [[De Bruijne, Irene]] voor Crisp. Mijn bewerking bakt de bloemkool in de oven in plaats van in een pan, en gebruikt rode paprika in plaats van gele. Verder was de oorspronkelijke hoeveelheid yoghurt 100g, maar heb ik daar iets meer van gemaakt.
 
 1. Verwarm de oven voor op 200 graden.
 2. Breng **200 ml water** aan de kook met **0,5 tl zout**. Zet het vuur uit, voeg **150 g volkorencouscous** toe en laat wellen met deksel op de pan.

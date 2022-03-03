@@ -1,6 +1,6 @@
 # Dahl met rode ui en limoen
 
-Een [recept](https://www.bonappetit.com/recipe/spiced-dal-with-fluffy-rice-and-salted-yogurt) van Bon Appétits [[Andy Baraghani]]. Simpel, lekker en makkelijk om in grotere hoeveelheden te maken.
+Een [recept](https://www.bonappetit.com/recipe/spiced-dal-with-fluffy-rice-and-salted-yogurt) van Bon Appétits [[Baraghani, Andy]]. Simpel, lekker en makkelijk om in grotere hoeveelheden te maken.
 
 ### Voor 4 porties
 

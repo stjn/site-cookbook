@@ -1,6 +1,6 @@
 # Parmigiana di melanzane
 ## Versie van Marie Maris
-Dit is de versie van [[Marie Maris]]. Goede smaak, maar iets te veel knoflook dus die heb ik hieronder verminderd. Je kunt het ook helemaal weglaten. Het eindresultaat is iets minder rijk dan met in olie gebakken aubergine, maar wel lichter. Ik bakte hem in een brede, lage ovenschaal en ben benieuwd of dat verschil maakt ten opzicht van een nauwere hogere schaal met meer stapels.
+Dit is de versie van [[Maris, Marie]]. Goede smaak, maar iets te veel knoflook dus die heb ik hieronder verminderd. Je kunt het ook helemaal weglaten. Het eindresultaat is iets minder rijk dan met in olie gebakken aubergine, maar wel lichter. Ik bakte hem in een brede, lage ovenschaal en ben benieuwd of dat verschil maakt ten opzicht van een nauwere hogere schaal met meer stapels.
 
 1. Snijd **2 aubergines** in plakken van 4 mm. Bestrooi met **zout** en laat tenminste een minuut of 15 zweten.
 2. Breng **500 ml passata** op smaak met **zout**, **peper**, **1 gesnipperd teentje knoflook**, **1 gesnipperde ui** en wat gehakte **basilicum**.

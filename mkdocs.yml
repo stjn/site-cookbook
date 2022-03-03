@@ -17,7 +17,8 @@ theme:
       primary: black
       accent: indgo
 
-
+  features:
+    - navigation.tabs
 
 # Extensions
 markdown_extensions:

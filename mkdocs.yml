@@ -32,8 +32,6 @@ markdown_extensions:
 #  - pymdownx.emoji:
 #      emoji_generator: !!python/name:pymdownx.emoji.to_svg
   # - admonition
-  - toc:
-      permalink: true
 
 plugins:
   - search

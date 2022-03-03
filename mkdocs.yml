@@ -1,10 +1,6 @@
 site_name: Kookboek
 
 theme:
-  features:
-    - navigation.tabs
-
-theme:
     name: 'material'
     palette:
 
@@ -19,6 +15,8 @@ theme:
       scheme: slate
       primary: black
       accent: indgo
+
+    
 
 # Extensions
 markdown_extensions:

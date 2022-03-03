@@ -1,8 +1,11 @@
 site_name: Kookboek
 
 theme:
+  features:
+    - navigation.tabs
+
+theme:
     name: 'material'
-    icon: material/food-variant
     palette:
 
     # Light mode
@@ -16,9 +19,6 @@ theme:
       scheme: slate
       primary: black
       accent: indgo
-
-  features:
-    - navigation.tabs
 
 # Extensions
 markdown_extensions:

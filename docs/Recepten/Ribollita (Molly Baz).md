@@ -1,0 +1,8 @@
+# Ribollita ([[Molly Baz]])
+7,5/10
+Al vanaf het moment dat de mirepoix een paar minuten in de pan ligt, is dit gerecht eigenlijk al geslaagd. Je zou daar bijna stoppen en dat opdienen als bijgerecht. Maar je gaat dan natuurlijk door. Het resultaat was geslaagd, zoals duidelijk wordt als je maar wil blijven opscheppen. Toch vond Margreet hem minder geslaagd dan de vorige keer, vanwege het brood. Vorige keer had ik een camprémy van het Vlaamsch Broodhuys. Vandaag een volkorendesem van Jordy’s. Die laatste is veel zuurder. Dat merk je ook als je ’t brood gewoon als boterham eet. Daar moet je van houden. Ik heb ook liever een pavé, alleen zijn die er niet in volkoren. (Ja, wat een zwaar leven.) Ze vond het brood te zuur, vooral in de geur. En omdat er veel brood in deze ribollita zit, heb je dat eigenlijk bij elke hap. Voor de volgende keer: gebruik neutraler brood en snij de cavolo nero niet in stukken van 5 maar 2 centimeter. Ik vraag me nu ook af of er niet nog een ander tegenwicht voor het zuur zou moeten zijn. Iets vets, iets romigs. Boter? Mozzarella? Wat ik me tijdens het koken ook nog afvroeg is waarom dit recept zo weinig kruiden gebruikt. Bij de volkskrant zie ik een recept met laurier, oregano, tijm, venkelzaad, pimentón en bouillon. The Guardian laat ‘m wat langer koken, en legt nadruk op de gedachte dat het een soep is, en dus wel vloeibaar moet zijn. 
+— Donderdag 4 december 2019
+
+[https://www.bonappetit.com/recipe/simple-ribollita][1]
+
+[1]:	https://www.bonappetit.com/recipe/simple-ribollita

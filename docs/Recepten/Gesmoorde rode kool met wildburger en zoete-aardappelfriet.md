@@ -1,0 +1,6 @@
+# Gesmoorde rode kool met wildburger en zoete-aardappelfriet
+Herstig en Hollands, deze drie-componenten-maaltijd. Ik sneed iets meer dan een halve rode kool in hele dunne reepjes (Grigson, 435), spoelde die af en smoorde die zo’n 40 minuten in een flinke hoeveelheid boter, met deksel. Gek genoeg kon het heel veel zout hebben. Ook wat peper, en op het eind 1 el wittewijnazijn. Een pure bereiding met milde smaak. Lekker. Zou ik zeker vaker maken. Veel geslaagder dan die rode kool die ik vorig jaar uit de oven maakte - die was niet gaar genoeg. Hiervan eet je zo een halve kool weg.
+Dat met een wildburger van Crisp. Achteraf iets te lang gebakken. Ik had 4 minuten in m’n hoofd - in de app stond alleen kort aanbakken. Voor de veiligheid deed ik het wat langer, waardoor mijn burger aan één kant wat te taai was. Wel lekker. Relatief sterke smaak voor een hamburger, goed gekruid. 
+Zoete-aardappelfrieten gewoon met zout en olie, maar dat duurde langer dan ik had gedacht. Ook 40 minuten, en daarna waren ze eerder zacht dan krokant. Toch te veel op een hoop in deze oven. 
+Wat ik nog miste was mayonaise. Volgende keer maak ik dit met gewone aardappels.
+— Donderdag 5 maart 2020

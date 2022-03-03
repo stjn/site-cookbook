@@ -1,0 +1,2 @@
+# Ravioli met pompoen en salie (De Pastafabriek)
+Erg lekker. Te koop bij Crisp en Marqt. Lekker met [[Botersaus met walnoten]], maar ook prima met alleen boter en peterselie. Zorg wel dat je ze lang genoeg kookt, zodat de pompoen goed gaar is. Een minuut of 4:30.

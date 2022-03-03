@@ -1,0 +1,4 @@
+# Bietjes met burrata (Crisp)
+Iets dat er zo fantastisch uitziet, zo goed smaakt en toch zo makkelijk op tafel te zetten is. Het zou niet mogen. Toch kan het, met Crisp. Ja ja, reclame enzo, maar dit is echt heel lekker, én heel simpel. Het recept is van Gies. Goeie vent. 
+In het echte recept kookt hij de bieten zelf, en gebruikt hij drie kleuren. Ik was te lui, dus koos voor voorgekookte rode bieten. Zoals hij zelf al schreef: die bieten mogen flink gekruid, want de burrata is wat flauw. Ik zou het zout de volgende keer dus gewoon op tafel zetten.
+Wanneer? Met kerst ofzo, of als er mensen langskomen, want dit is een chique binnenkomer. Super als voorgerecht, ook omdat je alles vooraf kan maken.

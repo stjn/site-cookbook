@@ -1,0 +1,22 @@
+# Groenten
+- [[Aardappels]]
+- [[Aubergine]]
+- [[Asperges]]
+- [[Bieten]]
+- [[Bonen]]
+- [[Boerenkool]]
+- [[Bloemkool]]
+- [[Broccoli]]
+- [[Courgette]]
+- [[Kool]]
+- [[Koolrabi]]
+- [[Koolraap, meiraap]]
+- [[Linzen]]
+- [[Pompoen]]
+- [[Prei]]
+- [[Spinazie]]
+- [[Venkel]]
+- [[Zoete aardappel]]
+
+## Sauzen voor erbij
+- [[Gremolata]]

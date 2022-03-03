@@ -1,0 +1,3 @@
+# Bolognesesaus ([[Marcella Hazan]])
+
+Erg rijk van smaak. Tijdens het bereiden deed de geur me erg denken aan de hamburgerbroodjes van McDonalds, op een goede manier; alsof zij deze geur hebben willen nabootsen. Het is alweer een tijdje geleden dat ik dit maakte, maar ik herinner me vaker te hebben moeten roeren dan in het recept stond, omdat het anders aanbrandt. Mijn saus werd droger dan ik had verwacht. Achteraf gezien had ik op het eind toch ook nog kookvocht moeten toevoegen, omdat de textuur op de pasta nu te droog was. Verder zeker de moeite waard.

@@ -1,0 +1,7 @@
+# Ravioli van rode biet / Geglazuurde spruitjes
+7.9
+“Wat een mooie kleuren!” was het eerste commentaar. Pas toen realiseerde ik me dat de roze ravioli obsceen complementair was aan de spruiten.
+Die spruitjes waren geglaceerd met een mengsel van 2 delen honing, 1 deel rodewijnazijn en 1 deel boter. De rode peper, bedenk ik nu, ben ik vergeten te gebruiken. Het smaakte zoet. Dat werkt, want het wordt er lekker van, maar ik vind het bijna te makkelijk scoren. Valsspelen met suiker. Ook omdat het qua smaak niet heel interessant is, wat vlak. Misschien is het dus goed om de volgende keer 1:1 aan te houden voor honing en azijn, zoals ook in het recept stond. En dan goed afproeven op zout. En het beetje bij beetje toevoegen, ook om te voorkomen dat alles zo vochtig wordt. 
+De ravioli was van Crisp. Ik kookte hem vier minuten, zoals ik geloof ik had zien staan in de app of op de verpakking. Na het afgieten voegde ik ze samen met de walnoten (geroosterd in de oven én gebakken in de boter), wat kookvocht en een scheutje citroen. Ze vielen in de pan uit elkaar, dus waarschijnlijk had het koken iets korter gekund. De smaak was er echter niet minder door. Niet memorabel genoeg om de details nu terug te halen, maar wel een volle, comfortabele smaak.
+Comfortfood, dat was het.
+— Dinsdag 10 december 2019

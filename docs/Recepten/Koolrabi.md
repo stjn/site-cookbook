@@ -1,0 +1,3 @@
+# Koolrabi
+Wat een verbluffend lekkere koolrabi, volgens het recept van Grigson. Eerst wat suiker goudbruin bakken in boter en olijfolie, daarna schijfje koolrabi bruin bakken, dan wat water erbij en een paar minuten met het deksel koken tot ze gaar zijn, dan wat bloem bij het overgebleven vocht om de saus te binden. Zout, peper, peterselie. Echt fantastisch. Zachte zoete broccoli-achtige smaak. Snoepen van groenten. Ook door het vele vet in die fijne saus. Zorg dat de schijfjes even dik zijn, zodat ze gelijk gaar zijn, max een halve centimeter. Ik at een hele koolrabi in m’n eentje. Dat is een flinke portie die opraakt omdat het zo lekker is, maar in een groter diner kun je uitgaan van 1 koolrabi voor 2 personen.
+— Zondag 1 maart 2020

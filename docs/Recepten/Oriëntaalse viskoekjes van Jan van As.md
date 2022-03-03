@@ -1,0 +1,4 @@
+# Oriëntaalse viskoekjes van Jan van As
+Kabeljauwkoekjes met rode peper, citroengras en koriander. Het is een soort visstick voor volwassenen, met het verschil dat de kabeljauw vermalen is met aardappelpuree, waardoor alles wat zachter wordt. Lekker en makkelijk. Te koop bij Marqt (€3,99 voor 2) en bij Crisp (€4,69). 
+
+Je kunt ze bakken in de pan, maar opwarmen in de oven heeft mijn arbitraire voorkeur omdat het net iets minder gedoe lijkt: 12 minuten op 200 graden, met halverwege even keren. Alhoewel het op een anti-aanbakplaat niet hoeft, heb ik aan beide kanten toch wat olie gebruikt in de hoop dat de koekjes daar krokanter van worden.

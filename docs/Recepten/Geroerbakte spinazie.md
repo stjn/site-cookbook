@@ -1,0 +1,5 @@
+# Geroerbakte spinazie
+
+Meestal maak ik spinazie zoals Marcella Hazan dat doet: eerst koken, en dann uitgelekt meebakken in olijfolie met knoflook ([[Spinazie in knoflookolie (Hazan)]]). Dat kost wat tijd, en dan ga je op zoek naar een snellere methode: meteen bakken. Op zich werkt dat, alleen laat de spinazie veel van z'n eigen vocht los. Je moet dus alsnog lang bakken voordat je dat allemaal kwijt bent, al had ik het vuur misschien vanaf het begin al hoger moeten zetten.
+
+De smaak is ook beduidend anders. Minder mild, iets meer bitter, en vooral voller: meer spinazie. Logisch natuurlijk, want je verliest geen smaak aan het water waarin je kookt. Als je goede spinazie hebt, kan ik me zeker voorstellen dat dit ook de moeite waard is. Het voelt alleen minder zacht, verfijnd en delicaat dan de spinazie van Hazan.

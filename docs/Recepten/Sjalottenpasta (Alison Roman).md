@@ -1,0 +1,3 @@
+# Sjalottenpasta (Alison Roman)
+Alison Roman ken ik al, maar ik had nog nooit iets van haar gekookt. Vandaag maakte ik haar pasta met een saus van gekaramelliseerde sjalotten, ansjovis en tomatenpuree. Die sjalotten laat je eerst 20 minuten karamellieren met een teentje knoflook. Dan laat je 3 ansjovisfilets smelten met wat rode peper. Dan nog wat tomatenpuree aanbakken. Pastawater erbij en je saus is klaar. En dat is lekker. Bomvol smaak, zoals ook andere tomatensausen met ansjovis, maar duidelijk zoeter, met de goed te proeven smaak van sjalotten. Dat maakt het best een interessante saus. Zou ‘m dus zeker nog een keer maken. Ook omdat je ‘m makkelijk wat eerder klaarmaakt en op het eind ‘aanmaakt’ met pastawater.
+— Zondag 8 maart 2020

@@ -1,0 +1,3 @@
+# Prei / Penne in uien-tomatensaus
+Een Romeins maal. Simpel, met boter. Het was die saus van [[Marcella Hazan]], maar dan met 1/2 tl suiker, een snufje cayenne, een snufje paprikapoeder en de rand van een stuk parmezaan. De saus brandde een beetje aan op het pitje rechtsboven, maar dat viel prima te redden. Beetje pastawater, en dan op het eind nog wat boter erdoor. En dat smaakt heerlijk. Zoet, maar ook diep. En die botersmaak is er ontzettend lekker bij.
+Die prei smaakt ook goed, maar iets leek een beetje vreemd. Ik denk de parmezaan, die al wat ouder was. Of anders de prei, van AH. Hoe dan ook: toch geslaagd.

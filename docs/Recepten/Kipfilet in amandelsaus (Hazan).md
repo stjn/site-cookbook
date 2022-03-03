@@ -1,0 +1,1 @@
+Zie boek [[Marcella Hazan]]. Mijn kip was uiteindelijk net te droog. Ik vermoed dat ik het bruin bakken te lang heb laten duren. Volgende keer korter maar op hoger vuur bruin bakken. Garen kan dan tijdens het stoven.

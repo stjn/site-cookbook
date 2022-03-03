@@ -1,0 +1,4 @@
+# Carbonara met witlof
+Margreet was jarig en mocht kiezen wat we gingen eten. Pasta met witlof, maar dan zoals ik ‘m zou maken. Dat werd dus een carbonara van [[Marcella Hazan]] met witlof in roomsaus van Grigson.
+De carbonara was perfect. Voor 300 gram pasta  bakte ik 125 g spekjes in 1.5 el olijfolie waarin ik eerst 2 tenen knoflook goudbruin had gebakken. Afblussen met 2 el chardonnay en apart houden. Spaghetti koken in veel zout. In een schaal 1 ei plus 3 dooiers mengen met parmezaanse kaas, peper, en peterselie. Spaghetti erbij. Husselen. Meer kaas erbij. Husselen. Beetje pastawater. Husselen. Spekjes erbij. Husselen. Opdienen met nog meer kaas en peper. Margreet vond het trouwens de lekkerste spekjes die ze ooit gehad had - ze waren van Crisp; Benine was er ook al eens enthousiast over. Ik vond ze lekker maar ben geen kenner. Een diepe, zoute smaak.
+— woensdag 4 maart 2020

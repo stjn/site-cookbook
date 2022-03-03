@@ -1,0 +1,2 @@
+Geïmproviseerde pasta erbij. Langzaam knoflook goudbruin bakken, dan ansjovis oplossen, tomatenpuree kleuren. Op dat moment deed ik er pastawater bij, met als resultaat de mooist gebonden saus die ik ooit zag. De losse tomatenpuree werd een fantastische emulsie. Het geheim? Ik gebruikte voor de pasta zo min mogelijk water: 1,5 l voor 150 gram. Op het eind nog wat tonijn, kappertjes en peterselie erdoor. Lekker en vol van smaak.
+— Zaterdag 21 maart 2020

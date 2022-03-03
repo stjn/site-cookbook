@@ -1,0 +1,7 @@
+# Pasta verdura
+Op een [blog][1] vond ik een recept voor pasta verdura. Normaal zou ik niet zo snel iets maken van een blog dat ik niet ken, maar omdat er veel typisch Italiaanse recepten tussen stonden vond ik het de gok wel waard. Bovendien was de belofte mooi: een saus van groenten die je 50 minuten bakt in de oven, dus lekker makkelijk.
+Ik deed drie tomaten, een rode ui, vier tenen knoflook, een rode paprika, 2 el olie en 3 el balsimoco in een ovenschaal. 50 minuten op 180 graden. Daarna in de keukenmachine. Wat niet in het recept stond, maar wat ik wel gedaan heb is het daarna weer terug in de pan doen, kookvocht toevoegen, inkoken en mixen met de pasta. Dat inkoken duurde iets te lang, waardoor de pasta minder beet had dan ik zou hebben gewild. Serveren met peterselie en kalamata-olijven. De olijven die wij hadden waren te bitter, maar vormden wel een mooi tegenwicht tegen de vrij zoete pastasaus. Peterselie van AH is trouwens echt een stuk minder smakelijk dan bij Crisp.
+Margreet was erg enthousiast. Ik vond de textuur van de saus niet zo prettig: veel brokjes. Wel fris, of ‘sprankelend’, zoals M. zei. Geen killer dish, maar op zich wel prettig om de routine eens op te breken.
+— 13 juli 2020
+
+[1]:	http://www.missfromage.nl/hoofdgerecht/pasta-verdura/

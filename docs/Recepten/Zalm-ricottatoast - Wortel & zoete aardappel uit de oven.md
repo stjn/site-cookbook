@@ -1,0 +1,5 @@
+# Zalm-ricottatoast / Wortel & zoete aardappel uit de oven
+7,8/10
+Op zoek naar wat variatie greep ik vandaag geen oranje, maar paarse zoete aardappel uit de bak. Voor het eerst, want ik was verbaasd toen ik zag dat de binnenkant wit was. Ik had gerekend op oranje. Qua smaak kwam het uiteindelijk wel goed. In blokjes en samen met wat wortel in de oven, in totaal zo’n 30 minuten op 200 graden. Niet echt gebruind, wel goed gaar. Deze keer alleen olie en zout. Pas toen ik het de oven inschoof realiseerde ik me dat ik het ook achteraf had kunnen zouten. Of dat nou echt verschil maakt weet ik nog niet. Ik weet dat het nu in ieder geval erg goed smaakt. Zacht, zoet en niet nat.
+Daarnaast: toast met ricotta en gerookte zalm. Voor het eerst dat ik daar ricotta voor gebruik. Op zich een prima ervaring, al smaakte het geheel droger dan ik had verwacht. Deels door die ricotta, maar ook vanwege de wilde zalm. Eigenlijk heel lekker (al miste het wat citroen), maar opvallend dat ik zo gewend ben aan de smaak van gekweekte zalm. Er is nog wat over, dus morgen bij het ontbijt weer.
+— Zaterdag 30 november 2019

@@ -41,3 +41,6 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks 
+  
+extra:
+  generator: false

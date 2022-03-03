@@ -1,4 +1,4 @@
-site_name: Stijns kookboek
+site_name: Kookboek
 
 theme:
     name: 'material'
@@ -7,14 +7,14 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: white
+      primary: indigo
       accent: indigo
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
-      accent: blue
+      accent: indgo
 
 # Extensions
 markdown_extensions:

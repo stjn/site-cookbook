@@ -16,6 +16,8 @@ theme:
       primary: black
       accent: indgo
 
+    icon: material/food-variant
+
 # Extensions
 markdown_extensions:
   - footnotes

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ansjovis.md",
+            "file": "Ingrediënten/Ansjovis.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ansjovis.md",
+                "file": "Ingrediënten/Ansjovis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "c652927e9ab4a897",
   "lastOpenFiles": [
-    "Ansjovis.md",
+    "Ingrediënten/Ansjovis.md",
     "Recepten/Aglio, olio & peperoncino.md",
     "Recepten/Bechamelsaus.md",
     "Recepten/Auberginekaviaar.md",

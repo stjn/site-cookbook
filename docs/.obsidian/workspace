@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Recepten/Bechamelsaus.md",
+            "file": "Ansjovis.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "volgens hazan",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recepten/Bechamelsaus.md",
+                "file": "Ansjovis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "c652927e9ab4a897",
   "lastOpenFiles": [
-    "Recepten/Bechamelsaus.md",
+    "Ansjovis.md",
     "Recepten/Aglio, olio & peperoncino.md",
+    "Recepten/Bechamelsaus.md",
+    "Recepten/Auberginekaviaar.md",
     "index.md",
     "Ingrediënten/Gember.md",
     "Chefs/Baraghani, Andy.md",
     "Chefs/De Bruijne, Irene.md",
     "Recepten/Dahl met rode ui en limoen.md",
-    "Ingrediënten/Linzen.md",
-    "Chefs/Grigson, Jane.md",
-    "Chefs/Marcella Hazan.md"
+    "Ingrediënten/Linzen.md"
   ]
 }

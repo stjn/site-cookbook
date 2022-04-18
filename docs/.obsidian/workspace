@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ingrediënten/Ansjovis.md",
+            "file": "Ingrediënten/Venkel.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingrediënten/Ansjovis.md",
+                "file": "Ingrediënten/Venkel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c652927e9ab4a897",
   "lastOpenFiles": [
+    "Ingrediënten/Venkel.md",
+    "Recepten/Witlof met olijfolie en knoflook.md",
+    "Ingrediënten/Witlof.md",
     "Ingrediënten/Ansjovis.md",
     "Recepten/Aglio, olio & peperoncino.md",
     "Recepten/Bechamelsaus.md",
     "Recepten/Auberginekaviaar.md",
     "index.md",
     "Ingrediënten/Gember.md",
-    "Chefs/Baraghani, Andy.md",
-    "Chefs/De Bruijne, Irene.md",
-    "Recepten/Dahl met rode ui en limoen.md",
-    "Ingrediënten/Linzen.md"
+    "Chefs/Baraghani, Andy.md"
   ]
 }

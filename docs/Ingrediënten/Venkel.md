@@ -6,3 +6,6 @@
 
 ## Bijrol 
 - [[Venkel-ansjovispasta (BA)]]
+
+## Ook te gebruiken in…
+- [[Witlof met olijfolie en knoflook]]

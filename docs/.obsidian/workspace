@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ingrediënten/Venkel.md",
+            "file": "Recepten/Witlof met olijfolie en knoflook.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingrediënten/Venkel.md",
+                "file": "Recepten/Witlof met olijfolie en knoflook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "c652927e9ab4a897",
   "lastOpenFiles": [
-    "Ingrediënten/Venkel.md",
     "Recepten/Witlof met olijfolie en knoflook.md",
     "Ingrediënten/Witlof.md",
+    "Ingrediënten/Venkel.md",
     "Ingrediënten/Ansjovis.md",
     "Recepten/Aglio, olio & peperoncino.md",
     "Recepten/Bechamelsaus.md",

@@ -9,6 +9,7 @@ Op zoek naar een witlofrecept zonder ham en kaas kwam ik onverwachts terecht op 
 ## Smaaknotitie
 - De eerste keer smaakte dit nog wat vlak, maar dat kwam door gebrek aan citroen, pijnboompitten en peterselie. Heeft wel potentie. Wel genoeg zout gebruiken.Ik ben benieuwd of knoflook in olie en daarna die olie gebruiken een evenwichter smaak geeft. 
 - Drie helften per persoon was een goede portie.
+- De tweede keer maakte ik dit net anders: knoflook, rode peper en 2 stuks ansjovis bakken in olijfolie, en de witlof vervolgens wentelen in die olie. Lekkerder dan die full-on knoflooksmaak van de eerste keer.
 
 ## Tips
 - Schijnt volgens de site waar ik dit vond ook goed te werken met [[Venkel]], al heeft die misschien wel iets langer nodig. 

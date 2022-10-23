@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "5746bff5ca8a7f50",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a013097f4ccdaac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c652927e9ab4a897",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recepten/Witlof met olijfolie en knoflook.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55e05d4136094db6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6897788295f5ea1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5acb32bdcc4f73cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1ea9da329bfba16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "203e7cc840e1d7de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2a3e47a9413bec9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d833e2eb4e0771c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87879c974cbca240",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "55e05d4136094db6",
+  "lastOpenFiles": [
+    "Recepten/Pastinaakfriet met boter.md",
+    "Ingrediënten/Pastinaak.md",
+    "Ingrediënten/Pasta.md",
+    "Ingrediënten/Pompoen.md",
+    "Recepten/Witlof met olijfolie en knoflook.md",
+    "Ingrediënten/Witlof.md",
+    "Ingrediënten/Venkel.md",
+    "Ingrediënten/Ansjovis.md",
+    "Recepten/Aglio, olio & peperoncino.md",
+    "Recepten/Bechamelsaus.md"
+  ]
+}

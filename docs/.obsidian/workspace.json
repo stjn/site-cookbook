@@ -30,9 +30,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "716d1a63ca6293c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chefs/Marcella Hazan.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54dbd6baf2ec17bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technieken/Kip pekelen.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32eae5b5f8f19792",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -90,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Technieken/Kip pekelen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,20 +142,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "55e05d4136094db6",
+  "active": "32eae5b5f8f19792",
   "lastOpenFiles": [
+    "Chefs/Marcella Hazan.md",
+    "Technieken/Kip pekelen.md",
+    "Hele kip met citroen (Hazan).md",
+    "Ingrediënten/Kip.md",
+    "index.md",
     "Recepten/Pastinaakfriet met boter.md",
     "Ingrediënten/Pastinaak.md",
     "Ingrediënten/Pasta.md",
     "Ingrediënten/Pompoen.md",
-    "Recepten/Witlof met olijfolie en knoflook.md",
-    "Ingrediënten/Witlof.md",
-    "Ingrediënten/Venkel.md",
-    "Ingrediënten/Ansjovis.md",
-    "Recepten/Aglio, olio & peperoncino.md",
-    "Recepten/Bechamelsaus.md"
+    "Recepten/Witlof met olijfolie en knoflook.md"
   ]
 }

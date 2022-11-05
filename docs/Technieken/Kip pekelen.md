@@ -1,0 +1,3 @@
+Nu geprobeerd met 2L water en 100 gram zout (dus 50g / L). Emma de Thouars raadt 70 gram per liter aan (https://favorflav.com/nl/eat-drink/kip-pekelen-waarom-en-hoe/), maar ik wil eerst eens zien hoe dit uitpakt. Pekelbad gemaakt om 13:00 uur.
+
+Om 17:30 uit het pekelbad gehaald en bereid volgens het recept voor [[Hele kip met citroen (Hazan)]] van [[Marcella Hazan]]. Ook nog wat extra zout over de buitenkant gestrooid. Die stukken waren het lekkerste, dus het bad mag zeker nog wat zouter (tenzij langer pekelen hetzelfde effect heeft).

@@ -13,3 +13,4 @@ Marcella Hazan is auteur van *De Klassieke Italiaanse Keuken*.
 - [[Prei - Penne in uien-tomatensaus]]
 - [[Spinazie in knoflookolie (Hazan)]]
 - [[Tomatensaus met boter (Hazan)]]
+- [[Hele kip met citroen (Hazan)]]

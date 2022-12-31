@@ -59,14 +59,28 @@
             "id": "32eae5b5f8f19792",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "Recepten/Kimchi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37d1fd141f31788c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recepten/Aglio, olio & peperoncino.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "aglio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +118,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -124,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technieken/Kip pekelen.md",
+                "file": "Recepten/Aglio, olio & peperoncino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,8 +157,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "32eae5b5f8f19792",
+  "active": "37d1fd141f31788c",
   "lastOpenFiles": [
+    "Recepten/Kimchi.md",
+    "Ingrediënten/Kool.md",
     "Chefs/Marcella Hazan.md",
     "Technieken/Kip pekelen.md",
     "Hele kip met citroen (Hazan).md",
@@ -151,8 +168,6 @@
     "index.md",
     "Recepten/Pastinaakfriet met boter.md",
     "Ingrediënten/Pastinaak.md",
-    "Ingrediënten/Pasta.md",
-    "Ingrediënten/Pompoen.md",
-    "Recepten/Witlof met olijfolie en knoflook.md"
+    "Ingrediënten/Pasta.md"
   ]
 }

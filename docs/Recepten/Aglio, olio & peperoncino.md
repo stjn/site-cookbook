@@ -7,5 +7,9 @@
 4. Kook **160 g pasta** in gezouten water. 
 5. Zet het vuur onder de saus weer aan vlak voordat de pasta klaar is. Voeg een lepelkookvocht toe aan de saus en laat inkoken tot een enigszins dikke saus. Voeg de pasta toe, hussel door elkaar en laat eventueel nog wat extra vocht verdampen. Serveer op warme borden.
 
+## Lekkere met zoet-pittige olie
+Bak **2 sjalotten** in **olijfolie** in plaats van knoflook. Bak **1/4 theelepel gochugaru** voor 30 seconden mee en voeg dan een klont **boter** toe. Zet het vuur uit en voeg **1/4 theelepel colatura di alici** en **1/4 theelepel sherryazijn**. (Eigen recept)
+
 ## Combinaties
 - Lekker met [[Spinazie in knoflookolie (Hazan)]], die je in hetzelfde water kunt koken.
+

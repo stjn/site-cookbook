@@ -31,3 +31,4 @@
 - [[Tomatensaus met boter (Hazan)]]
 	- Lekker met alle soorten pasta, maar ook met [[Gnocchi]]
 - [[Knoflook-tomatensaus uit de oven - Broccoli met ansjovis]]
+- [[Pinda pomodori pasta]]

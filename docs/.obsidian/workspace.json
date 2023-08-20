@@ -78,9 +78,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8a1e13c0db0368f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -118,8 +128,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,7 +166,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "37d1fd141f31788c",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "f1ea9da329bfba16",
   "lastOpenFiles": [
     "Recepten/Kimchi.md",
     "Ingrediënten/Kool.md",

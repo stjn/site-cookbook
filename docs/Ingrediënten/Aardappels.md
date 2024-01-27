@@ -1,6 +1,6 @@
 # Aardappels
 - [[Pommes fondantes]]
-
+- [[Zuurkoolstamppot met zoete aardappel]]
 
 ### Gekookt
 Ik kook ze zelden. De enige keer van de afgelopen jaren was bij een recept met [[Asperges]]. Ik gebruikte vastkokende amandine-aardappels van Crisp, en kookte ze ongeschild in koud, zout water (18g op 1.5L, 20 had ook wel gekund voor de smaak) voor ongeveer 20 minuten, tot je er met een vork in kan prikken en ze vanzelf weer omlaag glijden. Makkelijk en lekker.
